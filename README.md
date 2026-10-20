@@ -12,6 +12,7 @@ I write essays, build products end to end, and ship them. I design, specify, bui
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Machines](https://github.com/pedrumshokouhi/machines) | Forty-seven interactive simulations: run Blockbuster in 2000, survive a margin call, build a cell therapy, win 270 electoral votes. A loader that keeps every fault inside its machine, and a WebGL renderer written from scratch. [Play them](https://pedrumshokouhi.github.io/machines/). | HTML, CSS, JavaScript, WebGL |
 | [Rekeep](https://github.com/pedrumshokouhi/rekeep) | Clipboard manager for Mac, iPhone and iPad. Shared engine, share extension, custom keyboard. Search measured at 50,000 clips. Free, no account, nothing leaves the device. | Swift, SwiftUI |
 | [Vantage](https://github.com/pedrumshokouhi/vantage) | Personal command center: 15 live feeds turned into developments, portfolio analytics with hidden-exposure detection, 13F tracking, scenario lab, a consequence map from events to holdings. Every number labelled reported, calculated, estimate or AI. Runs on the Python standard library and SQLite, or on Cloudflare's free tier. | Python, JavaScript, Cloudflare Workers, D1 |
 | [Final Table](https://github.com/pedrumshokouhi/finaltable) | iOS strategy puzzle game that grades decisions, not luck. Exact enumeration engine, bit-identical Monte Carlo across devices, spec written before code. | Swift, SwiftData |
