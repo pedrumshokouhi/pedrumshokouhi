@@ -8,6 +8,16 @@ I write essays, build products end to end, and ship them. I design, specify, bui
 
 **Elytra**, a weekly dating app for New York, with a cofounder. iPhone app in TestFlight, matching engine with 105 automated tests, waitlist site. Private until launch.
 
+## Companies
+
+Three companies I built before Elytra. Each page opens on a working version 3 of the product, as I'd build it today, then tells the story, including how it ended. [All three in one place](https://work.pedrumshokouhi.com).
+
+| Company | What it was | How it ended |
+|---|---|---|
+| [Megalo](https://megalo.pedrumshokouhi.com) | Fractional ownership of short-term rental homes, from under $5,000. Raised the capital, bought the homes, shipped an iOS and Android app. | My partners bought me out and now run their own properties on the software. |
+| [Nora AI](https://nora.pedrumshokouhi.com) | AI prospecting for wealth managers, built as Apex: finds the right people, tells the advisor why, writes the first email. Two engineers, and a wealth management firm that paid for the pilot. | Wound down on purpose over data-sourcing risk. |
+| [NestDrop](https://nestdrop.pedrumshokouhi.com) | Same-day licensed daycare, booked in under 60 seconds with the child's profile sent ahead. 122 parent and daycare interviews in New York and Montreal. | Stopped before launch: regulation on every booking, and too small a market. |
+
 ## Shipped
 
 | Project | What it is | Stack |
