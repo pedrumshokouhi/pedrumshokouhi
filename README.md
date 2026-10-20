@@ -2,7 +2,7 @@
 
 Builder by instinct, endlessly curious about technology and obsessed with how companies get built, funded, and run.
 
-I write essays, build products end to end, and ship them. Everything below was designed, specified, coded and tested by me, with AI coding tools as the second pair of hands.
+I write essays, build products end to end, and ship them. I design, specify, build and test everything here myself, and I run AI tools the way a CTO runs a team: I set the direction, review every line, and own the result.
 
 ## Now
 
