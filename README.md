@@ -5,7 +5,6 @@ Builder by instinct, endlessly curious about technology and obsessed with how co
 I write essays, build products end to end, and ship them. I design, specify, build and test everything
 ## Now
 
-**Elytra**, a weekly dating app for New York, with a cofounder. iPhone app in TestFlight, matching engine with 105 automated tests, waitlist site. Private until launch.
 
 ## Companies
 
