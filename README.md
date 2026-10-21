@@ -8,7 +8,8 @@ I write essays, build products end to end, and ship them. I design, specify, bui
 
 ## Companies
 
-Three companies I built before Elytra. Each page opens on a working version 3 of the product, as I'd build it today, then tells the story, including how it ended. [All three in one place](https://work.pedrumshokouhi.com).
+Previous companies I started 
+(https://work.pedrumshokouhi.com).
 
 | Company | What it was | How it ended |
 |---|---|---|
