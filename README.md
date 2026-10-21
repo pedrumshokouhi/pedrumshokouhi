@@ -13,7 +13,7 @@ Previous companies I started
 |---|---|---|
 | [Megalo](https://megalo.pedrumshokouhi.com) | Fractional ownership of short-term rental homes, from under $5,000. Raised the capital, bought the homes, shipped an iOS and Android app. | My partners bought me out and now run their own properties on the software. |
 | [Nora AI](https://nora.pedrumshokouhi.com) | AI prospecting for wealth managers, built as Apex: finds the right people, tells the advisor why, writes the first email. Two engineers, and a wealth management firm that paid for the pilot. | Wound down on purpose over data-sourcing risk. |
-| [NestDrop](https://nestdrop.pedrumshokouhi.com) | Same-day licensed daycare, booked in under 60 seconds with the child's profile sent ahead. 122 parent and daycare interviews in New York and Montreal. | Pivoted to focus on a larger opportunity, carrying the research and the booking flow forward. |
+| [NestDrop](https://nestdrop.pedrumshokouhi.com) | Same-day licensed daycare, booked in under 60 seconds with the child's profile sent ahead. 122 parent and daycare interviews in New York and Montreal. | Launched, but couldn't scale it. Pivoted to focus on a larger opportunity, carrying the research and the booking flow forward. |
 
 ## Tools
 
