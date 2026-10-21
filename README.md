@@ -2,39 +2,38 @@
 
 Builder by instinct, endlessly curious about technology and obsessed with how companies get built, funded, and run.
 
-I write essays, build products end to end, and ship them. I design, specify, build and test everything here myself.
+I write essays and build products end to end. I designed and built every app and tool below.
 
 ## Companies
 
-Previous companies I started 
-(https://work.pedrumshokouhi.com).
+Previous companies I started. Full case studies at [work.pedrumshokouhi.com](https://work.pedrumshokouhi.com).
 
 | Company | What it was | How it ended |
 |---|---|---|
-| [Megalo](https://megalo.pedrumshokouhi.com) | Fractional ownership of short-term rental homes, from under $5,000. Raised the capital, bought the homes, shipped an iOS and Android app. | My partners bought me out and now run their own properties on the software. |
-| [Nora AI](https://nora.pedrumshokouhi.com) | AI prospecting for wealth managers, built as Apex: finds the right people, tells the advisor why, writes the first email. Two engineers, and a wealth management firm that paid for the pilot. | Wound down on purpose over data-sourcing risk. |
-| [NestDrop](https://nestdrop.pedrumshokouhi.com) | Same-day licensed daycare, booked in under 60 seconds with the child's profile sent ahead. 122 parent and daycare interviews in New York and Montreal. | Launched, but couldn't scale it. Pivoted to focus on a larger opportunity, carrying the research and the booking flow forward. |
+| [Megalo](https://megalo.pedrumshokouhi.com) | Fractional ownership of short-term rental homes, from under $5,000. I raised the capital, bought the homes and shipped an iOS and Android app. | **Bought out by partner investors.** They bought the whole platform and run their own properties on it. |
+| [Nora AI](https://nora.pedrumshokouhi.com) | AI prospecting for wealth managers, built as Apex. Two engineers. | **Paid pilot, then stopped.** Advisors used it for several months. The banks they work under would not permit it because of risk and liability, so I wound it down. |
+| [NestDrop](https://nestdrop.pedrumshokouhi.com) | Same-day licensed daycare, booked in under 60 seconds with the child's profile sent ahead. 122 parent and daycare interviews in New York and Montreal. | **Launched, then pivoted.** It could not scale. The market was over-regulated: every jurisdiction mandates its own rules and rewrites them city by city. I saw no way to dominate a market of many small centers. I pivoted to a larger opportunity and carried the research and the booking flow forward. |
+
+## Apps
+
+| App | What it is | Stack |
+|---|---|---|
+| [Rekeep](https://github.com/pedrumshokouhi/rekeep) | Clipboard manager for Mac, iPhone and iPad. Shared engine, share extension, custom keyboard. Search measured at 50,000 clips. Free, no account, nothing leaves the device. | Swift, SwiftUI |
+| [Final Table](https://github.com/pedrumshokouhi/finaltable) | iOS strategy puzzle game that grades each decision. Exact enumeration engine. Monte Carlo results are bit-identical across devices. The spec was written before the code. | Swift, SwiftData |
+| [Vantage](https://github.com/pedrumshokouhi/vantage) | Personal command center. Turns 15 live feeds into developments. Portfolio analytics with hidden-exposure detection, 13F tracking and a scenario lab. Every number is labelled reported, calculated, estimate or AI. Runs on the Python standard library and SQLite, or on Cloudflare's free tier. | Python, JavaScript, Cloudflare Workers, D1 |
+| [Machines](https://github.com/pedrumshokouhi/machines) | 47 interactive simulations and a WebGL renderer written from scratch. Play them at [pedrumshokouhi.com/experiments](https://pedrumshokouhi.com/experiments) or on [GitHub Pages](https://pedrumshokouhi.github.io/machines/). | HTML, CSS, JavaScript, WebGL |
+| [pedrumshokouhi.com](https://github.com/pedrumshokouhi/pedrumshokouhi.com) | My site. Twelve essays, 25 founder case files and the 47 machines. No framework, no build step. | HTML, CSS, JavaScript, WebGL |
 
 ## Tools
 
-Four command-line tools for the agent era and the capital stack. Each is Python with no dependencies, tested, and runnable in under a minute.
+Four command-line tools for AI agents and the capital stack. Each is tested Python with no dependencies and runs in under a minute.
 
 | Tool | What it does |
 |---|---|
-| [agentprobe](https://github.com/pedrumshokouhi/agentprobe) | Reverse-engineers any AI agent from the outside. Point it at a chat endpoint and it maps the identity, the shape of the system prompt, the refusal boundaries, injection resistance, leakage, consistency, memory, languages and cost, as a spec sheet you can diff between two agents or two versions. |
-| [flightrecorder](https://github.com/pedrumshokouhi/flightrecorder) | A seatbelt and a black box for autonomous agents. Wraps any MCP server, enforces a policy before each call (allowed tools, budgets, forbidden arguments, dry runs, confirmations), records every message to a tamper-evident ledger, replays and diffs runs. |
-| [capstack](https://github.com/pedrumshokouhi/capstack) | Cap tables as code. SAFEs, notes, pools and priced rounds in a twenty-line text file you commit. Conversion math that matches the YC post-money SAFE, dilution diffs between two versions, and the exit waterfall. |
-| [intrinsic](https://github.com/pedrumshokouhi/intrinsic) | Values any listed US company from its SEC filings in one command: ten years of audited numbers, a DCF with scenarios, a reverse DCF for the growth the price implies, multiples against the company's own history. Every number labelled reported, calculated or estimate. |
-
-## Shipped
-
-| Project | What it is | Stack |
-|---|---|---|
-| [Machines](https://github.com/pedrumshokouhi/machines) | Forty-seven interactive simulations: run Blockbuster in 2000, survive a margin call, build a cell therapy, win 270 electoral votes. A loader that keeps every fault inside its machine, and a WebGL renderer written from scratch. [Play them](https://pedrumshokouhi.github.io/machines/). | HTML, CSS, JavaScript, WebGL |
-| [Rekeep](https://github.com/pedrumshokouhi/rekeep) | Clipboard manager for Mac, iPhone and iPad. Shared engine, share extension, custom keyboard. Search measured at 50,000 clips. Free, no account, nothing leaves the device. | Swift, SwiftUI |
-| [Vantage](https://github.com/pedrumshokouhi/vantage) | Personal command center: 15 live feeds turned into developments, portfolio analytics with hidden-exposure detection, 13F tracking, scenario lab, a consequence map from events to holdings. Every number labelled reported, calculated, estimate or AI. Runs on the Python standard library and SQLite, or on Cloudflare's free tier. | Python, JavaScript, Cloudflare Workers, D1 |
-| [Final Table](https://github.com/pedrumshokouhi/finaltable) | iOS strategy puzzle game that grades decisions, not luck. Exact enumeration engine, bit-identical Monte Carlo across devices, spec written before code. | Swift, SwiftData |
-| [pedrumshokouhi.com](https://github.com/pedrumshokouhi/pedrumshokouhi.com) | My site: twelve essays, 25 founder case files, 47 interactive machines, a WebGL renderer written from scratch. No framework, no build step. | HTML, CSS, JavaScript, WebGL |
+| [agentprobe](https://github.com/pedrumshokouhi/agentprobe) | Maps any AI agent from the outside. Point it at a chat endpoint and it reports identity, system-prompt shape, refusal boundaries, injection resistance, leakage and cost. |
+| [flightrecorder](https://github.com/pedrumshokouhi/flightrecorder) | Wraps any MCP server. Enforces a policy before each call and records every message to a tamper-evident ledger. Replays and diffs runs. |
+| [capstack](https://github.com/pedrumshokouhi/capstack) | Cap tables as code. SAFEs, notes, pools and priced rounds live in a text file. Conversion math matches the YC post-money SAFE. Shows dilution diffs and the exit waterfall. |
+| [intrinsic](https://github.com/pedrumshokouhi/intrinsic) | Values any listed US company from its SEC filings. Ten years of audited numbers, a DCF with scenarios, a reverse DCF and multiples. |
 
 ## Writing
 
@@ -46,4 +45,4 @@ All twelve are at [pedrumshokouhi.com](https://pedrumshokouhi.com).
 
 ## Elsewhere
 
-[pedrumshokouhi.com](https://pedrumshokouhi.com) · [LinkedIn](https://www.linkedin.com/in/pedrumshokouhi/)
+[pedrumshokouhi.com](https://pedrumshokouhi.com) · [Work](https://work.pedrumshokouhi.com) · [LinkedIn](https://www.linkedin.com/in/pedrumshokouhi/)
