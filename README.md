@@ -2,8 +2,7 @@
 
 Builder by instinct, endlessly curious about technology and obsessed with how companies get built, funded, and run.
 
-I write essays, build products end to end, and ship them. I design, specify, build and test everything here myself, and I run AI tools the way a CTO runs a team: I set the direction, review every line, and own the result.
-
+I write essays, build products end to end, and ship them. I design, specify, build and test everything
 ## Now
 
 **Elytra**, a weekly dating app for New York, with a cofounder. iPhone app in TestFlight, matching engine with 105 automated tests, waitlist site. Private until launch.
